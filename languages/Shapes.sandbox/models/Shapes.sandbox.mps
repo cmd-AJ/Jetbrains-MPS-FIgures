@@ -49,9 +49,9 @@
     <node concept="3Cldxv" id="6q2a_MePJqi" role="3Cldxi">
       <property role="3Cldxo" value="200" />
       <property role="3Cldxp" value="300" />
-      <property role="3Cldxq" value="60" />
+      <property role="3Cldxq" value="80" />
       <node concept="3ClsFL" id="6q2a_MeQ7$H" role="3ClsFB">
-        <ref role="3ClsFN" to="xvy6:6q2a_MePY2j" resolve="blue" />
+        <ref role="3ClsFN" to="xvy6:$asr1jlbcj" resolve="red" />
       </node>
     </node>
     <node concept="3Cldxk" id="6q2a_MePJqk" role="3Cldxi">
@@ -70,7 +70,26 @@
       <property role="3M3_0j" value="100" />
       <property role="3M3_1a" value="200" />
       <node concept="3ClsFL" id="52LgEQyPMaU" role="3ClsFB">
+        <ref role="3ClsFN" to="xvy6:6q2a_MePY2j" resolve="blue" />
+      </node>
+    </node>
+  </node>
+  <node concept="3Cldxg" id="5$qgeaNvHAl">
+    <property role="TrG5h" value="onlyCircles" />
+    <node concept="3Cldxv" id="5$qgeaNvHBK" role="3Cldxi">
+      <property role="3Cldxo" value="200" />
+      <property role="3Cldxp" value="300" />
+      <property role="3Cldxq" value="80" />
+      <node concept="3ClsFL" id="5$qgeaNvHBL" role="3ClsFB">
         <ref role="3ClsFN" to="xvy6:$asr1jlbcj" resolve="red" />
+      </node>
+    </node>
+    <node concept="3Cldxv" id="5$qgeaNvHCc" role="3Cldxi">
+      <property role="3Cldxo" value="300" />
+      <property role="3Cldxp" value="300" />
+      <property role="3Cldxq" value="80" />
+      <node concept="3ClsFL" id="5$qgeaNvHCd" role="3ClsFB">
+        <ref role="3ClsFN" to="xvy6:6q2a_MePY2j" resolve="blue" />
       </node>
     </node>
   </node>

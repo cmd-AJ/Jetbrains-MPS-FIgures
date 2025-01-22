@@ -15,11 +15,11 @@ public class Mdrawing extends JFrame {
     @Override
     protected void paintComponent(Graphics graphics) {
       super.paintComponent(graphics);
-      graphics.setColor(Color.blue);
-      graphics.drawOval(200, 300, 60, 60);
+      graphics.setColor(Color.red);
+      graphics.drawOval(200, 300, 80, 80);
       graphics.setColor(Color.black);
       graphics.drawRect(350, 250, 50, 50);
-      graphics.setColor(Color.red);
+      graphics.setColor(Color.blue);
       graphics.drawLine(100, 200, 200, 100);
       graphics.drawLine(200, 100, 300, 200);
       graphics.drawLine(100, 200, 300, 200);
